@@ -1,0 +1,17 @@
+{
+  "name": "GridTable",
+  "version": "0.0.1",
+  "dependencies": {
+    "jquery": "latest",
+    "jquery-ui": "latest",
+    "normalize-css": "latest",
+    "bootstrap": "3.3.7",
+    "tabulator" : "3.3.0"
+  },
+  "install" : {
+    "path"  : {
+      "js": "_js/",
+      "css": "_css/"
+    }
+  }
+}
